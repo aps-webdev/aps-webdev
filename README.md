@@ -22,8 +22,23 @@
        width="100px"
        >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+<br/><br/>
+<h3 align="center">You can find me on internet at</h3>
+<div align="center">
+  <a href='https://www.linkedin.com/in/aman11510918/'>
+    <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="25px"
+       >
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/aman1151_0918">
+    <img 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
+       width="25px"
+       >
+  </a>
+  </div>
 <!--
-**studiousTribe/studiousTribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,4 +50,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
