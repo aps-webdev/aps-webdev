@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Welcome to Studious Tribe 👋</h1>
+<h1 align="center">Hi there, Welcome! 👋</h1>
 <br/>
 <div align="center">
   <img 
