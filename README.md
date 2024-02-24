@@ -30,13 +30,6 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        width="25px"
        >
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/aman1151_0918">
-    <img 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
-       width="25px"
-       >
-  </a>
   </div>
 <!--
 
