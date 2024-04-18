@@ -25,7 +25,7 @@
 <br/><br/>
 <h3 align="center">You can find me on internet at</h3>
 <div align="center">
-  <a href='https://www.linkedin.com/in/aman11510918/'>
+  <a href='https://www.linkedin.com/in/aps-webdev/'>
     <img 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
        width="25px"
